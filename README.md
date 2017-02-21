@@ -1,13 +1,13 @@
 # Project Name
 TODO: Write a project description
 
-##Installation
+## Installation
 TODO: Describe the installation process.
 
-##Usage
+## Usage
 TODO: Write usage instructions
 
-##Contributing
+## Contributing
 
 1. Fork it!
 
