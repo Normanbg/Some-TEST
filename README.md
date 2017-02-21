@@ -1,7 +1,6 @@
 # Project Name
 TODO: Write a project description
-<iframe width="420" height="345" src="https://youtu.be/G6oeEyiAIJU">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G6oeEyiAIJU" frameborder="0" allowfullscreen></iframe>
 ## Installation
 TODO: Describe the installation process.
 
